@@ -11,10 +11,6 @@ export const info = {
   `,
 /*
 
-I’m A Passionate Web Developer, focused on building dynamic web specific applications, turning deadlines into deliveries, 
-problems into solutions, bugs into features, constantly learning new stuff and doing my best in making the world a better 
-place.
-
 */ 
   
 
@@ -25,6 +21,27 @@ place.
   },
 
   projects: [
+    {
+      title: "Ludci",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1694460976/portfolio/lucid_loqauj.jpg",
+      githubUrl: "https://github.com/Jhon-crypt/ludciX",
+      liveUrl: "https://ludcix.brimble.app/",
+    },
+    {
+      title: "Asistra",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1694460740/portfolio/asistra_tfgdhu.jpg",
+      githubUrl: "https://github.com/Jhon-crypt/asistra",
+      liveUrl: "https://asistra.vercel.app/",
+    },
+    {
+      title: "Kreate",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1694460241/portfolio/Kreate_otts4l.jpg",
+      githubUrl: "https://github.com/Jhon-crypt/kreate",
+      liveUrl: "https://kreate-ten.vercel.app/",
+    },
     {
       title: "Oanwtech",
       isFeatured: true,
