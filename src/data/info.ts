@@ -4,10 +4,9 @@ export const info = {
   jobDescription: "Web Developer",
   about: `I'm a Web Developer,
    That enjoys creating things that live on the internet, focused on building dynamic web specific applications.
-   Skilled in HTML, CSS, JavaScript, Bootstrap, tailwind CSS, React JS, Next JS. Hence,
+   Skilled in HTML, CSS, JavaScript, Bootstrap, tailwind CSS, React JS, Next JS and Vue JS. Hence,
    I have successfully completed several web projects, and also gained real world experience while working as web developer which includes collaborating with co-developers. 
    Yet, I learn continuously and never stop exploring new technologies.
-   So, I'm also gaining knowledge of VueJs and Nuxt.
   `,
 /*
 
