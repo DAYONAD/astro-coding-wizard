@@ -22,6 +22,13 @@ export const info = {
 
   projects: [
     {
+      title: "EduVerify",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1694461183/portfolio/eduverify_qzqmjr.jpg",
+      githubUrl: "https://github.com/Jhon-crypt/Certificate-authenticator-",
+      liveUrl: "https://eduverify.brimble.app/",
+    },
+    {
       title: "Ludci",
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1694460976/portfolio/lucid_loqauj.jpg",
