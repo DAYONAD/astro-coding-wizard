@@ -21,6 +21,13 @@ export const info = {
 
   projects: [
     {
+      title: "Devxx",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1701347546/dev_ztfcxz.jpg",
+      githubUrl: "https://devxx.vercel.app/",
+      liveUrl: "https://devxx.vercel.app/",
+    },
+    {
       title: "EduVerify",
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1694461183/portfolio/eduverify_qzqmjr.jpg",
