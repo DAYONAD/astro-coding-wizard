@@ -24,7 +24,7 @@ export const info = {
       title: "Devxx",
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1701347546/dev_ztfcxz.jpg",
-      githubUrl: "https://devxx.vercel.app/",
+      githubUrl: "https://github.com/Jhon-crypt/devx",
       liveUrl: "https://devxx.vercel.app/",
     },
     {
