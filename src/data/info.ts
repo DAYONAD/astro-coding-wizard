@@ -1,12 +1,9 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://oladele-john.vercel.app/",
   name: "Oladele John",
-  jobDescription: "Web Developer",
-  about: `I'm a Web Developer,
-   That enjoys creating things that live on the internet, focused on building dynamic web specific applications.
-   Skilled in HTML, CSS, JavaScript, Bootstrap, tailwind CSS, React JS, Next JS and Vue JS. Hence,
-   I have successfully completed several web projects, and also gained real world experience while working as web developer which includes collaborating with co-developers. 
-   Yet, I learn continuously and never stop exploring new technologies.
+  jobDescription: "Software Developer",
+  about: `I'm a Software Developer,
+   I love creating things that live on the internet, focused on building dynamic web specific applications. I have successfully completed several web projects, and also gained real world experience while working as software developer as well as collaborating with co-developers. Yet, I learn continuously and never stop exploring new technologies..
   `,
 /*
 
