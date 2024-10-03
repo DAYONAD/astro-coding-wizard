@@ -23,28 +23,28 @@ export const info = {
       liveUrl: "https://devxx.vercel.app/",
     },
     {
-      title: "LMS",
+      title: "Edutams",
       isFeatured: true,
       thumbnail:
-        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727875717/uvnym4uac9tnu1ocxcmb.png",
+        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727955646/Screenshot_2024-10-03_at_12.39.45_PM_f92r5i.png",
       // githubUrl: "https://github.com/Jhon-crypt/Certificate-authenticator-",
-      liveUrl: "https://eduverify.brimble.app/",
+      liveUrl: "/",
     },
     {
-      title: "DAMKOFT",
+      title: "Moniwave",
       isFeatured: true,
       thumbnail:
-        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727875717/cx1le3us7fzvj7sb1yon.png",
+        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727955728/Screenshot_2024-10-03_at_12.41.45_PM_nytc9d.png",
       // githubUrl: "https://github.com/Jhon-crypt/ludciX",
-      liveUrl: "https://ludcix.brimble.app/",
+      liveUrl: "https://web.moniwave.com/",
     },
     {
-      title: "E-request",
+      title: "Yofte Sports commerce",
       isFeatured: true,
       thumbnail:
-        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727875715/kqygzzstfj3youk9faz4.png",
+        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727955950/Screenshot_2024-10-03_at_12.45.32_PM_wopmgh.png",
       // githubUrl: "https://github.com/Jhon-crypt/asistra",
-      liveUrl: "https://asistra.vercel.app/",
+      liveUrl: "https://yofte-vue.vercel.app/",
     },
     {
       title: "TAMS V4",
@@ -53,6 +53,22 @@ export const info = {
         "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727875716/jaonw49rxsupt151iwzm.png",
       // githubUrl: "https://github.com/Jhon-crypt/kreate",
       liveUrl: "https://kreate-ten.vercel.app/",
+    },
+    {
+      title: "Asistra",
+      isFeatured: true,
+      thumbnail:
+        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727956089/Screenshot_2024-10-03_at_12.47.47_PM_wnz8fa.png",
+      // githubUrl: "https://github.com/Jhon-crypt/kreate",
+      liveUrl: "https://asistra.vercel.app/",
+    },
+    {
+      title: "Tta (Tech talent academy)",
+      isFeatured: true,
+      thumbnail:
+        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727956266/Screenshot_2024-10-03_at_12.50.46_PM_jbpmqg.png",
+      // githubUrl: "https://github.com/Jhon-crypt/kreate",
+      liveUrl: "https://web.tta.ng/",
     },
     // {
     //   title: "Oanwtech",
