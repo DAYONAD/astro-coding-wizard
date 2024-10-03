@@ -70,6 +70,14 @@ export const info = {
       // githubUrl: "https://github.com/Jhon-crypt/kreate",
       liveUrl: "https://web.tta.ng/",
     },
+    {
+      title: "Tasued (Tai Solarin univeristy Of Education)",
+      isFeatured: true,
+      thumbnail:
+        "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727958558/Screenshot_2024-10-03_at_1.28.35_PM_ylzik2.png",
+      // githubUrl: "https://github.com/Jhon-crypt/kreate",
+      liveUrl: "https://tasued.edu.ng/",
+    },
     // {
     //   title: "Oanwtech",
     //   isFeatured: true,
