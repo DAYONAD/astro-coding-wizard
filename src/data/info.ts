@@ -20,7 +20,7 @@ export const info = {
       thumbnail:
         "https://res.cloudinary.com/daiwsn5kz/image/upload/v1727875717/t45obl6tj4po9zkglfrz.png",
       githubUrl: "https://github.com/Jhon-crypt/devx",
-      liveUrl: "https://devxx.vercel.app/",
+      liveUrl: "https://onlineefiko.xyzstaging.com",
     },
     {
       title: "Edutams",
